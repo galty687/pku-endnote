@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="getting_started" path="getting_started.html"/>
+   <appContext helpID="what_is_hdmi_0" path="what_is_hdmi_0.html"/>
+   <appContext helpID="what_is_vga" path="what_is_vga.html"/>
+   <appContext helpID="how_to_connect_your_mac_to_a_projector_with_hdmi"
+               path="how_to_connect_your_mac_to_a_projector_with_hdmi.html"/>
+   <appContext helpID="connecting_to_projector_with_vga"
+               path="connecting_to_projector_with_vga.html"/>
+   <appContext helpID="projecting_failure" path="projecting_failure.html"/>
+   <appContext helpID="specifications" path="specifications.html"/>
+   <appContext helpID="topic_installEndNoteWindows" path="endnote.html"/>
+</map>
